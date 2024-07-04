@@ -1,4 +1,4 @@
 FROM openjdk:21
-COPY target/demo-hng-0.0.1-SNAPSHOT.jar demo-hng.jar
-ENTRYPOINT ["java", "-jar", "/demo-hng.jar"]
+COPY target/*.jar demo-hng-0.0.1-SNAPSHOT.jar
 EXPOSE 8080
+ENTRYPOINT ["java", "-jar", "/demo-hng-0.0.1-SNAPSHOT.jar"]
