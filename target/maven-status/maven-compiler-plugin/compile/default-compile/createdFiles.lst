@@ -1,0 +1,7 @@
+com/egbas/demo_hng/model/WeatherData.class
+com/egbas/demo_hng/model/Visitor.class
+com/egbas/demo_hng/controller/Swagger.class
+com/egbas/demo_hng/service/WeatherService.class
+com/egbas/demo_hng/config/RestHello.class
+com/egbas/demo_hng/DemoHngApplication.class
+com/egbas/demo_hng/controller/visitorController.class
